@@ -70,12 +70,15 @@ The lab demonstrates real-time log collection, endpoint monitoring, threat hunti
 
 (Add screenshots below.)
 
-- Wazuh Dashboard
-- Threat Hunting Dashboard
-- Active Windows Agent
-- Security Alerts
-- Events View
-- Endpoint Monitoring
+01-dashboard-overview.png
+02-agent-active.png
+03-threat-hunting-dashboard.png
+04-threat-hunting-events.png
+05-configuration-assessment.png
+06-windows-agent-setup.png
+07-wazuh-dashboard-service.png
+08-wazuh-indexer-service.png
+09-wazuh-manager-service.png
 
 ---
 
