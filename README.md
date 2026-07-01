@@ -68,11 +68,11 @@ The lab demonstrates real-time log collection, endpoint monitoring, threat hunti
 
 ## Screenshots
 
-### 1. Wazuh Dashboard Overview
+### 1.Dashboard Overview
 
 Overall SIEM dashboard displaying agent status, alert severity, and security monitoring summary.
 
-![Dashboard Overview](screenshot/01-wazuh-dashboard-overview.png.png)
+![Dashboard Overview](screenshot/01-dashboard-overview.png)
 
 ---
 
@@ -80,7 +80,7 @@ Overall SIEM dashboard displaying agent status, alert severity, and security mon
 
 Windows 11 endpoint successfully connected to the Wazuh Manager and actively reporting security events.
 
-![Agent Active](screenshot/02-agent-active.png.ping)
+![Agent Active](screenshot/02-agent-active.png)
 
 ---
 
@@ -88,7 +88,7 @@ Windows 11 endpoint successfully connected to the Wazuh Manager and actively rep
 
 Threat hunting dashboard displaying alert trends, authentication activity, and MITRE ATT&CK mappings.
 
-![Threat Hunting Dashboard](screenshot/03-threat-hunting-dashboard.png.ping)
+![Threat Hunting Dashboard](screenshot/03-threat-hunting-dashboard.png)
 
 ---
 
@@ -96,7 +96,7 @@ Threat hunting dashboard displaying alert trends, authentication activity, and M
 
 Real-time security events collected from the monitored Windows endpoint for investigation and analysis.
 
-![Threat Hunting Events](screenshot/04-threat-hunting-events.png.ping)
+![Threat Hunting Events](screenshot/04-threat-hunting-events.png)
 
 ---
 
@@ -104,7 +104,7 @@ Real-time security events collected from the monitored Windows endpoint for inve
 
 CIS Microsoft Windows 11 Enterprise Benchmark assessment showing system compliance and failed security checks.
 
-![Configuration Assessment](screenshot/05-configuration-assessment.png.ping)
+![Configuration Assessment](screenshot/05-configuration-assessment.png)
 
 ---
 
@@ -112,23 +112,23 @@ CIS Microsoft Windows 11 Enterprise Benchmark assessment showing system complian
 
 PowerShell commands used to install, start, and verify the Wazuh Agent service on the Windows endpoint.
 
-![Windows Agent Setup](screenshot/06-windows-agent-setup.png.ping)
+![Windows Agent Setup](screenshot/06-windows-agent-setup.png)
 
 ---
 
-### 7. Wazuh Dashboard Service
+### 7.  Dashboard Service
 
 Verification that the Wazuh Dashboard service is active and running on the Ubuntu server.
 
-![Dashboard Service](screenshot/07-wazuh-dashboard-service.png.ping)
+![Dashboard Service](screenshot/07-dashboard-service.png)
 
 ---
 
-### 8. Wazuh Indexer Service
+### 8. Indexer Service
 
 Confirmation that the Wazuh Indexer service is running successfully.
 
-![Indexer Service](screenshot/08-wazuh-indexer-service.png.ping)
+![Indexer Service](screenshot/08-indexer-service.png)
 
 ---
 
@@ -136,10 +136,12 @@ Confirmation that the Wazuh Indexer service is running successfully.
 
 Verification that the Wazuh Manager service is active and operational.
 
-![Manager Service](screenshot/09-wazu-manager-service.png.ping)
+![Manager Service](screenshot/09-wazu-manager-service.png)
 
 ---
 
 ## Author
 
 Darwin Brown JR.
+
+Aspiring SOC ANalyst
