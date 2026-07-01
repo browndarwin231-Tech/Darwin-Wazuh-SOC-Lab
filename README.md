@@ -88,7 +88,7 @@ Windows 11 endpoint successfully connected to the Wazuh Manager and actively rep
 
 Threat hunting dashboard displaying alert trends, authentication activity, and MITRE ATT&CK mappings.
 
-![Threat Hunting Dashboard](screenshot/03-Threat-hunting-dashboard.png.ping)
+![Threat Hunting Dashboard](screenshot/03-threat-hunting-dashboard.png.ping)
 
 ---
 
