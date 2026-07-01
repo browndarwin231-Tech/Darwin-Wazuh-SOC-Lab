@@ -144,4 +144,4 @@ Verification that the Wazuh Manager service is active and operational.
 
 Darwin Brown JR.
 
-Aspiring SOC Analyst
+Aspiring SOC Analyst Tier 1
